@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+<head>
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name ="description" content="homework test">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+<table border="1" style="width:100%">
+<tr>
+<th colspan="5">簡歷表</th>
+<tr>
+
+<tr>
+<td>姓名</td>
+<td colspan="3">楊凱任</td>
+<th rowspan="4">照片</th>
+</tr>
+<tr> 
+<td>出生日期</td>
+<td>93/5/12</td>
+<td>性別</td>
+<td>男</td>
+</tr>
+<tr>
+<td>出生地</td>
+<td>台灣</td>
+<td>聯絡電話</td>
+<td>0905649308</td>
+</tr>
+<tr>
+<td colspan="1">通訊地址</td>
+<td colspan="3">桃園市中壢區圓光路一段507號</td>
+
+</tr>
+<tr>
+<td>電子信箱</td>
+<td colspan="4">kevinyaung0512@gmail.com</td>
+
+</tr>
+<tr>
+<td>學歷</td>
+<td colspan="4">高中、國中、國小</td>
+</tr>
+<tr>
+<td>專長</td>
+<td colspan="4">設計</td>
+</tr>
+<tr>
+<td>興趣</td>
+<td colspan="4">1.打籃球2.繪圖3.設計程式</td>
+</tr>
+<tr>
+<td>幹部經驗</td>
+<td colspan="4">副風紀股長</td>
+</tr>
+<tr>
+<td>社團經驗</td>
+<td colspan="4">1.籃球社2.桌遊社</td>
+</tr>
+<tr>
+<td>活動經驗</td>
+<td colspan="4">1.學校大隊接力2.園遊會美編</td>
+</tr>
+
+</table>
+<p></p>
+</body>
+</html>
